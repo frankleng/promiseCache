@@ -1,0 +1,19 @@
+{
+  "name": "promisecache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0",
+    "uuid": "^3.1.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
+}
